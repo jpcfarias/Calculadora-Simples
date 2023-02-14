@@ -1,3 +1,5 @@
+# procuro a gratis
+
 while True:
     
     primeiro_numero = int(input("digite o primeiro numero: "))
